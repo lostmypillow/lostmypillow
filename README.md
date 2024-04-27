@@ -1,4 +1,15 @@
-### Hi there 👋
+Highly recommend checking out [my website](https://lostmypillow.github.io)
+
+But here's a quick TLDR:
+
+## I'm building...
+- ### Frontends (React/Vue)
+
+## I'm learning...
+- ### Backend (Spring Boot - Kotlin)
+- ### Android App Development (Kotlin)
+- ### iOS App Development (Swift) (not yet)
+
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
