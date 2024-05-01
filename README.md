@@ -3,12 +3,12 @@ Highly recommend checking out [my website](https://lostmypillow.github.io)
 But here's a quick TLDR:
 
 ## I'm building...
-- ### Frontends (React/Vue)
+- #### Frontend (React/Vue)
 
 ## I'm learning...
-- ### Backend (Spring Boot - Kotlin)
-- ### Android App Development (Kotlin)
-- ### iOS App Development (Swift) (not yet)
+- #### Backend (Django)
+- #### Android App Development 
+- #### iOS App Development
 
 
 <!--
