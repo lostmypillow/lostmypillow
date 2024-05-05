@@ -1,16 +1,19 @@
-Highly recommend checking out [my website](https://lostmypillow.github.io)
+# Heeeeeeere's Johnny!
+[Send me an email](mailto:lostmypillow@icloud.com]
+ [Go to my personal website](https://lostmypillow.github.io)
+[Peek at my GitHub repositories](https://github.com/lostmypillow?tab=repositories)
+Peek at my Docker Hub
 
-But here's a quick TLDR:
 
-## I'm building...
-- Frontend (React/Vue)
+## I build
+- Frontends in __React__ and sometimes __Vue__
 
 ## I'm learning...
 - Backend/API/DB (Django)
 - Android App Development 
 - iOS App Development
 
-## My Languages
+## My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
