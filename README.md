@@ -1,5 +1,5 @@
 # Heeeeeeere's Johnny!
-[Send me an email](mailto:lostmypillow@icloud.com]
+[Send me an email](mailto:lostmypillow@icloud.com)
  [Go to my personal website](https://lostmypillow.github.io)
 [Peek at my GitHub repositories](https://github.com/lostmypillow?tab=repositories)
 Peek at my Docker Hub
