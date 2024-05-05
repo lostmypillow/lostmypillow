@@ -3,13 +3,15 @@ Highly recommend checking out [my website](https://lostmypillow.github.io)
 But here's a quick TLDR:
 
 ## I'm building...
-- #### Frontend (React/Vue)
+- Frontend (React/Vue)
 
 ## I'm learning...
-- #### Backend (Django)
-- #### Android App Development 
-- #### iOS App Development
+- Backend/API/DB (Django)
+- Android App Development 
+- iOS App Development
 
+## My Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
