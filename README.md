@@ -10,10 +10,6 @@
 [lostmypilow@icloud.com](mailto:lostmypillow@icloud.com)
 
 
-## Docker Hub:
-(no link yet) If you're interested
-
-
 ## I build
 - Frontends in __React__ and sometimes __Vue__
 
