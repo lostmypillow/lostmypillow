@@ -1,7 +1,10 @@
 # Heeeere's Johnny!
 
 
-## Personal Site: 
+## I'm Johnny, aka LostMyPillow
+
+
+## My Personal Site: 
 [lostmypillow.github.io](https://lostmypillow.github.io)
 ##### Planned transition to custom domain and a self hosted server
 
