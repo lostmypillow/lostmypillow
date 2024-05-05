@@ -2,7 +2,7 @@
 [Send me an email](mailto:lostmypillow@icloud.com)
 
 
-[Go to my personal website](https://lostmypillow.github.io)
+[Go to my personal site](https://lostmypillow.github.io)
 
 
 [Peek at my GitHub repositories](https://github.com/lostmypillow?tab=repositories)
