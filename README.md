@@ -1,16 +1,13 @@
 # Heeeere's Johnny!
 
 
-## I'm Johnny, aka LostMyPillow
+I'm Johnny, aka LostMyPillow.
 
 
-## My Personal Site: 
-[lostmypillow.github.io](https://lostmypillow.github.io)
-##### Planned transition to custom domain and a self hosted server
+Take a look at my personal site: [lostmypillow.github.io](https://lostmypillow.github.io). I'm planning to transition to custom domain and a self hosted server with Docker containers.
 
 
-## Contact Me:
-[lostmypillow@icloud.com](mailto:lostmypillow@icloud.com)
+Contact me at [lostmypillow@icloud.com](mailto:lostmypillow@icloud.com)
 
 
 ## I build
