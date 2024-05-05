@@ -1,4 +1,4 @@
-# Heeeeeeere's Johnny!
+# Heeeere's Johnny!
 
 
 ## Personal Site: 
