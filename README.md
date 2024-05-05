@@ -1,23 +1,28 @@
 # Heeeeeeere's Johnny!
-[Send me an email](mailto:lostmypillow@icloud.com)
 
 
-[Go to my personal site](https://lostmypillow.github.io)
+## Personal Site: 
+[lostmypillow.github.io](https://lostmypillow.github.io)
+##### Planned transition to custom domain and a self hosted server
 
 
-[Peek at my GitHub repositories](https://github.com/lostmypillow?tab=repositories)
+## Contact Me:
+[lostmypilow@icloud.com](mailto:lostmypillow@icloud.com)
 
 
-Peek at my Docker Hub
+## Docker Hub:
+(no link yet) If you're interested
 
 
 ## I build
 - Frontends in __React__ and sometimes __Vue__
 
+
 ## I'm learning...
 - Backend/API/DB (Django)
 - Android App Development 
 - iOS App Development
+
 
 ## My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
