@@ -4,7 +4,7 @@
 I'm Johnny, aka LostMyPillow.
 
 
-Take a look at my personal site: [lostmypillow.github.io](https://lostmypillow.github.io). I'm planning to transition to custom domain and a self hosted server with Docker containers.
+Take a look at my personal site: [lostmypillow.github.io](https://lostmypillow.github.io).
 
 
 Contact me at [lostmypillow@icloud.com](mailto:lostmypillow@icloud.com)
@@ -15,9 +15,14 @@ Contact me at [lostmypillow@icloud.com](mailto:lostmypillow@icloud.com)
 
 
 ## I'm learning...
-- Backend/API/DB (Django)
-- Android App Development 
-- iOS App Development
+- Backend/API (Python/Django)
+- Database (SQLite)
+
+## I'm planning to learn...
+- Backend/API (C#/ASP.NET)
+- Database (PostgreSQL)
+- Android App Development (Kotlin)
+- iOS App Development (Swift)
 
 
 ## My Top Languages
