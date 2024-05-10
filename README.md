@@ -4,10 +4,10 @@
 I'm Johnny, aka LostMyPillow.
 
 
-[My Personal Site](https://lostmypillow.github.io).
+[My Personal Site](https://lostmypillow.github.io)
 
 
-[Contact Me(mailto:lostmypillow@icloud.com)
+[Contact Me](mailto:lostmypillow@icloud.com)
 
 
 ## My Frontend Works
