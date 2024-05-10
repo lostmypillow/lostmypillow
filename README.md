@@ -11,8 +11,10 @@ I'm Johnny, aka LostMyPillow.
 
 
 ## My Frontend Works
-- In React: 
-- In Vue
+- In React:
+    - In NextJS:
+- In Vue:
+    - In Nuxt:
 
 ## My Backend Works
 - In Django:
