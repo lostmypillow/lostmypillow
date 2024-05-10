@@ -4,23 +4,28 @@
 I'm Johnny, aka LostMyPillow.
 
 
-Take a look at my personal site: [lostmypillow.github.io](https://lostmypillow.github.io).
+[My Personal Site](https://lostmypillow.github.io).
 
 
-Contact me at [lostmypillow@icloud.com](mailto:lostmypillow@icloud.com)
+[Contact Me(mailto:lostmypillow@icloud.com)
 
 
-## I build
-- Frontends in __React__ and sometimes __Vue__
+## My Frontend Works
+- In React: 
+- In Vue
+
+## My Backend Works
+- In Django:
+- In Spring Boot: (still learning Java)
 
 
-## I'm learning...
-- Backend/API (Python/Django)
-- Database (SQLite)
+## Working with Databases
+- SQLite
 
-## I'm planning to learn...
-- Backend/API (C#/ASP.NET)
-- Database (PostgreSQL)
+
+## Planning to Learn...
+- Java for Spring Boot
+- PostgreSQL
 - Android App Development (Kotlin)
 - iOS App Development (Swift)
 
