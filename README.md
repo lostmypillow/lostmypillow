@@ -6,9 +6,9 @@ I build websites with no frills & sensible UI/UX.
 
 I also build fast & secure backends.
 
-Planning to build mobile and desktop apps.
+Check out my **pinned repositories** below.
 
-[My Personal Site](https://lostmypillow.github.io)
+[Check out my personal site](https://lostmypillow.github.io)
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
