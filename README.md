@@ -1,39 +1,31 @@
 # Heeeere's Johnny!
 
-
 I'm Johnny, aka LostMyPillow.
 
+I build websites with no frills & sensible UI/UX.
+
+I also build fast & secure backends.
+
+Planning to build mobile and desktop apps.
 
 [My Personal Site](https://lostmypillow.github.io)
-
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
 
 ## My Frontend Works
-- In React:
-    - In NextJS:
-- In Vue:
-    - In Nuxt:
+- [JSearch (React)](https://github.com/lostmypillow/jsearch-react)
 
 ## My Backend Works
-- In Django:
-- In Spring Boot: (still learning Java)
-
-
-## Working with Databases
-- SQLite
-
+- [JSchool (Django)](https://github.com/lostmypillow/jschool-django)
 
 ## Planning to Learn...
-- Java for Spring Boot
+- C# for ASP.NET Core
 - PostgreSQL
-- Android App Development (Kotlin)
-- iOS App Development (Swift)
-
-
-## My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
+- Android App Development
+- iOS App Development
+- Windows Desktop Development
+- GNOME Apps Development
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
