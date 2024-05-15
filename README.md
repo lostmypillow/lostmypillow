@@ -12,6 +12,8 @@ Check out my **pinned repositories** below.
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
+## Completed Projects
+- JSearch | [Frontend](https://github.com/lostmypillow/jsearch-react)
 
 ## My Frontend Works
 - [JSearch (React)](https://github.com/lostmypillow/jsearch-react)
