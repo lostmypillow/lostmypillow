@@ -12,22 +12,7 @@ Check out my **pinned repositories** below.
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
-## Completed Projects
-- JSearch | [Frontend](https://github.com/lostmypillow/jsearch-react)
-
-## My Frontend Works
-- [JSearch (React)](https://github.com/lostmypillow/jsearch-react)
-
-## My Backend Works
-- [JSchool (Django)](https://github.com/lostmypillow/jschool-django)
-
-## Planning to Learn...
-- C# for ASP.NET Core
-- PostgreSQL
-- Android App Development
-- iOS App Development
-- Windows Desktop Development
-- GNOME Apps Development
+[My Roadmap](https://github.com/users/lostmypillow/projects/4)
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
