@@ -4,9 +4,9 @@
 
 I'm Johnny, aka LostMyPillow.
 
-I build websites with no frills & sensible UI/UX, in React and Vue
+I build websites with no frills & sensible UI/UX, in **React** and **Vue**
 
-I also build backend apps in Django (Python)
+I also build backend apps in **Django (Python)**
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
