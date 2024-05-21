@@ -1,14 +1,12 @@
 # Heeeere's Johnny!
 
+[Check out my personal site](https://lostmypillow.github.io)
+
 I'm Johnny, aka LostMyPillow.
 
-I build websites with no frills & sensible UI/UX.
+I build websites with no frills & sensible UI/UX, in React and Vue
 
-I also build fast & secure backends.
-
-Check out my **pinned repositories** below.
-
-[Check out my personal site](https://lostmypillow.github.io)
+I also build backend apps in Django (Python)
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
