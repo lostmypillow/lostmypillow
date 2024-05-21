@@ -8,6 +8,8 @@ I build websites with no frills & sensible UI/UX, in **React** and **Vue**
 
 I also build backend apps in **Django (Python)**
 
+Check out [my repositories](https://github.com/lostmypillow?tab=repositories) for more miscellaneous projects.
+
 [Contact Me](mailto:lostmypillow@icloud.com)
 
 [My Roadmap](https://github.com/users/lostmypillow/projects/4)
