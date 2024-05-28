@@ -8,7 +8,7 @@ I build websites with no frills & sensible UI/UX, in **React** and **Vue**
 
 I also build backend apps in **Django (Python)**
 
-Learning Java at the moment.
+Learning **Java** at the moment.
 
 Check out [my repositories](https://github.com/lostmypillow?tab=repositories) for more miscellaneous projects.
 
