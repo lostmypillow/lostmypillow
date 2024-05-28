@@ -12,8 +12,6 @@ Check out [my repositories](https://github.com/lostmypillow?tab=repositories) fo
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
-[My Roadmap](https://github.com/users/lostmypillow/projects/4)
-
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
