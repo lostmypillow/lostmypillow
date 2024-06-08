@@ -1,12 +1,11 @@
 # Heeeere's Johnny!
 
-[Check out my personal site](https://lostmypillow.github.io)
-
 I'm Johnny, aka LostMyPillow.
 
-I build websites with no frills & sensible UI/UX, in **React** and **Vue**
+[Check out my personal site]([https://lostmypillow.github.io](https://www.lostmypillow.duckdns.org)), self-hosted on an RPi 3B+ in my home.
 
-I also build backend apps in **Django (Python)**
+
+I build full stack websites with no frills & sensible UI/UX, in **React** and **Vue**, with backend apps in **Django (Python)**
 
 Learning **Java** at the moment.
 
