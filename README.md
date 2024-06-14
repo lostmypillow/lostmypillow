@@ -2,8 +2,7 @@
 
 I'm Johnny, aka LostMyPillow.
 
-[Check out my personal site](https://www.lostmypillow.duckdns.org) , self-hosted on an RPi 3B+ in my home.
-
+[Check out my personal site](https://lostmypillow.github.io)
 
 I build full stack websites with no frills & sensible UI/UX, in **React** and **Vue**, with backend apps in **Django (Python)**
 
