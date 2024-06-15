@@ -12,6 +12,9 @@ Check out [my repositories](https://github.com/lostmypillow?tab=repositories) fo
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
