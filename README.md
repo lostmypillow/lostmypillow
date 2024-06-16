@@ -4,7 +4,7 @@ I'm Johnny, aka LostMyPillow.
 
 [Check out my personal site](https://lostmypillow.github.io)
 
-I build full stack websites with no frills & sensible UI/UX, in **React** and **Vue**, with backend apps in **Django (Python)**
+I build full stack websites with no frills & sensible UI/UX, in **React** and **Vue**, with backends in **Django (Python)**
 
 Learning **Java** at the moment.
 
