@@ -12,12 +12,13 @@ I'm building:
 
 I'm self-hosting those apps with:
 - **Docker** containers on my **RPi 3B+** in my own home, behind an **NGINX reverse proxy**
-- ...with the exception of my own personal site, which is hosted on my RPi, Cloudflare Pages and GitHub Pages, and "Dancing Goats", a work-in-progress hosted on Vercel (for now).
+- ...with the exception of my own personal site, which is hosted on my RPi, Cloudflare Pages and GitHub Pages at tge same time, and "Dancing Goats", a work-in-progress hosted on Vercel (for now).
 
 
 I'm learning: 
 - **Java** for future Spring Boot projects
-
+- **Rust** for systems programming
+- **NTLK(Natural Language Toolkit)** just for fun
  
 
 [Contact Me](mailto:lostmypillow@icloud.com)
