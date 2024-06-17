@@ -9,6 +9,12 @@ I'm Johnny, aka LostMyPillow.
 I'm building:
 - **Django (Python)** web apps serving **React/Vue** frontends
 
+
+I'm self-hosting those apps on:
+- my **RPi 3B+** in my own home, behind an **NGINX reverse proxy**
+- ...with the exception of my own personal site, which is hosted on my RPi, Cloudflare Pages and GitHub Pages, and "Dancing Goats" a work-in-progress hosted on Vercel (for now).
+
+
 I'm learning: 
 - **Java** for future Spring Boot projects
 
