@@ -4,11 +4,15 @@ I'm Johnny, aka LostMyPillow.
 
 [Check out my personal site](https://lostmypillow.github.io)
 
-I build full stack websites with no frills & sensible UI/UX, in **React** and **Vue**, with backends in **Django (Python)**
+[Check out my repositories](https://github.com/lostmypillow?tab=repositories)
 
-Learning **Java** at the moment.
+I'm building:
+- **Django (Python)** web apps serving **React/Vue** frontends
 
-Check out [my repositories](https://github.com/lostmypillow?tab=repositories) for more miscellaneous projects.
+I'm learning: 
+- **Java** for future Spring Boot projects
+
+ 
 
 [Contact Me](mailto:lostmypillow@icloud.com)
 
