@@ -2,7 +2,7 @@
 
 I'm Johnny, aka LostMyPillow.
 
-[my personal website](https://lostmypillow.pages.dev/)
+[my personal website](https://lostmypillow.github.io/)
 
 [my repos](https://github.com/lostmypillow?tab=repositories)
 
