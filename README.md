@@ -2,9 +2,7 @@
 
 I'm Johnny, aka LostMyPillow.
 
-[my personal website](https://lostmypillow.github.io/)
-
-[my repos](https://github.com/lostmypillow?tab=repositories)
+[my personal website](https://www.lostmypillow.duckdns.org)
 
 I'm building:
 - **Django (Python)** web apps serving **React/Vue** frontends
