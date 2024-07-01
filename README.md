@@ -4,19 +4,13 @@ I'm Johnny, aka LostMyPillow.
 
 [my personal website](https://www.lostmypillow.duckdns.org)
 
-I'm building:
-- **Django (Python)** web apps serving **React/Vue** frontends
+I'm a self taught web dev, building **Django (Python)** and **FastAPI (Python)** web apps that serve **React**, **Vue** and static HTML frontends. 
 
 
-I'm self-hosting those apps with:
-- **Docker** containers on my **RPi 3B+** in my own home, behind an **NGINX reverse proxy**
-- ...with the exception of my own personal site, which is hosted on my RPi, Cloudflare Pages and GitHub Pages at tge same time, and "Dancing Goats", a work-in-progress hosted on Vercel (for now).
+I self-host those sites on my RPi 3B+ with **Docker containers**, including this very site.
 
 
-I'm learning: 
-- **Java** for future Spring Boot projects
-- **Rust** for systems programming
-- **NTLK(Natural Language Toolkit)** just for fun
+I'm learning **Java** for future Spring Boot projects, and **Expo (React Native)** for my foray into cross platform mobile app development.
  
 
 [Contact Me](mailto:lostmypillow@icloud.com)
