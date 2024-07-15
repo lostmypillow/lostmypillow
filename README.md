@@ -10,7 +10,7 @@ I'm a self taught web dev, building **Django (Python)** and **FastAPI (Python)**
 I self-host those sites on my RPi 3B+ with **Docker containers**, including this very site.
 
 
-I'm learning **Java** for future Spring Boot projects, **PHP** for Laravel projects and **Expo (React Native)** for my foray into cross platform mobile app development.
+I'm learning **Java** for future Spring Boot projects and **Expo (React Native)** for my foray into cross platform mobile app development.
  
 
 [Contact Me](mailto:lostmypillow@icloud.com)
