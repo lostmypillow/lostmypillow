@@ -2,7 +2,7 @@
 
 I'm Johnny, aka LostMyPillow.
 
-I'm a self taught developer, I build stuff ranging from simple HTML websites:
+I'm a self taught developer, I build stuff ranging from simple **HTML** websites:
 
 - [My own personal website, styled with Pico CSS](https://github.com/lostmypillow/lostmypillow.github.io)
 
@@ -10,15 +10,15 @@ I'm a self taught developer, I build stuff ranging from simple HTML websites:
 
 - [Dancing Goats, a website I made for a local eponymous coffee shop](https://github.com/lostmypillow/dancinggoats)
 
-...and combining React or Vue frontends with Django or FastAPI (Python) backends:
+...and combining **React** or **Vue** frontends with **Django or FastAPI (Python)** backends:
 
 - [JRAR, a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend](https://github.com/lostmypillow/jrar)
 - [JCourses, a Django and React combo that scrapes course data drom my university, NTUT, and displays them in a more sensible manner](https://github.com/lostmypillow/jcourses)
-- [JSearch, a Vue frontend that fisplays data from a FastAPI server, which in turn consumes an OMDb API and a random RapidAPI that returns Google results](https://github.com/lostmypillow/jsearch)
+- [JSearch, a Vue frontend that displays data from a FastAPI server, which in turn consumes an OMDb API and a random RapidAPI that returns Google results](https://github.com/lostmypillow/jsearch)
 
-Recently I'm working on an Express + React project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes)
+Recently I'm working on an **Express + React** project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes)
 
-...as well as learning Java via [HelloJava](https://github.com/lostmypillow/HelloJava) and Expo (React Native) via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
+...as well as learning **Java** via [HelloJava](https://github.com/lostmypillow/HelloJava) and **Expo (React Native)** via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
 
 I self-host all of the above projects (frontend and backend) and future projects on my RPi 3B+ at home, using **Docker containers**. They're behind an **nginx reverse proxy** and a DuckDNS free domain.
 
