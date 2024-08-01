@@ -4,7 +4,20 @@ I'm Johnny, aka LostMyPillow.
 
 [my personal website](https://www.lostmypillow.duckdns.org)
 
-I'm a self taught web dev, building **Django (Python)** and **FastAPI (Python)** web apps that serve **React**, **Vue** and static HTML frontends. 
+I'm a self taught developer, I build stuff ranging from simple HTML websites:
+
+- [My own personal website, styled with Pico CSS](https://github.com/lostmypillow/lostmypillow.github.io)
+
+...to simple **React** frontends:
+
+- [Dancing Goats, a website I made for a local eponymous coffee shop](https://github.com/lostmypillow/dancinggoats)
+
+...and combining React or Vue frontends with Django or FastAPI (Python) backends:
+
+- [JRAR, a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend](https://github.com/lostmypillow/jrar)
+- [JCourses, a Django and React combo that scrapes course data drom my university, NTUT, and displays them in a more sensible manner](https://github.com/lostmypillow/jcourses)
+- 
+ **Django (Python)** and **FastAPI (Python)** web apps that serve **React**, **Vue** and static HTML frontends. 
 
 
 I self-host those sites on my RPi 3B+ with **Docker containers**, including this very site.
