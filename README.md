@@ -2,8 +2,6 @@
 
 I'm Johnny, aka LostMyPillow.
 
-[my personal website](https://www.lostmypillow.duckdns.org)
-
 I'm a self taught developer, I build stuff ranging from simple HTML websites:
 
 - [My own personal website, styled with Pico CSS](https://github.com/lostmypillow/lostmypillow.github.io)
@@ -16,20 +14,18 @@ I'm a self taught developer, I build stuff ranging from simple HTML websites:
 
 - [JRAR, a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend](https://github.com/lostmypillow/jrar)
 - [JCourses, a Django and React combo that scrapes course data drom my university, NTUT, and displays them in a more sensible manner](https://github.com/lostmypillow/jcourses)
-- 
- **Django (Python)** and **FastAPI (Python)** web apps that serve **React**, **Vue** and static HTML frontends. 
+- [JSearch, a Vue frontend that fisplays data from a FastAPI server, which in turn consumes an OMDb API and a random RapidAPI that returns Google results](https://github.com/lostmypillow/jsearch)
+
+Recently I'm working on an Express + React project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes)
+
+...as well as learning Java via [HelloJava](https://github.com/lostmypillow/HelloJava) and Expo (React Native) via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
+
+I self-host all of the above projects (frontend and backend) and future projects on my RPi 3B+ at home, using **Docker containers**. They're behind an **nginx reverse proxy** and a DuckDNS free domain.
+
+For backup, I host my personal website and several frontend only projects with GitHub Pages, and use Render to host the backup backends.
 
 
-I self-host those sites on my RPi 3B+ with **Docker containers**, including this very site.
-
-
-I'm learning **Java** for future Spring Boot projects and **Expo (React Native)** for my foray into cross platform mobile app development.
- 
-
-[Contact Me](mailto:lostmypillow@icloud.com)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
+[![Here are my top languages, for fun](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
