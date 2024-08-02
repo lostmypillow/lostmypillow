@@ -16,7 +16,7 @@ I'm a self taught developer, I build stuff ranging from simple **HTML** websites
 - [JCourses, a Django and React combo that scrapes course data drom my university, NTUT, and displays them in a more sensible manner](https://github.com/lostmypillow/jcourses)
 - [JSearch, a Vue frontend that displays data from a FastAPI server, which in turn consumes an OMDb API and a random RapidAPI that returns Google results](https://github.com/lostmypillow/jsearch)
 
-Recently I'm working on an **Express + React** project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes)
+Recently I'm working on an **Express + React** project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes) and [JDMS, my attempt to automate my daily assignment at the PR firm I'm interning at](https://github.com/lostmypillow/jDMS)
 
 ...as well as learning **Java** via [HelloJava](https://github.com/lostmypillow/HelloJava) and **Expo (React Native)** via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
 
