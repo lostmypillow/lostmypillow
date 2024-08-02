@@ -25,7 +25,7 @@ I self-host all of the above projects (frontend and backend) and future projects
 For backup, I host my personal website and several frontend only projects with GitHub Pages, and use Render to host the backup backends.
 
 
-[![Here are my top languages, for fun](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow)](https://github.com/anuraghazra/github-readme-stats)
+[![Here are my top languages, for fun](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
