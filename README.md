@@ -4,19 +4,21 @@ I'm Johnny, aka LostMyPillow.
 
 I'm a self taught developer, I build stuff ranging from simple **HTML** websites:
 
-- [My own personal website, styled with Pico CSS](https://github.com/lostmypillow/lostmypillow.github.io)
+- [My own personal website](https://github.com/lostmypillow/lostmypillow.github.io)
 
 ...to simple **React** frontends:
 
-- [Dancing Goats, a website I made for a local eponymous coffee shop](https://github.com/lostmypillow/dancinggoats)
+- [Dancing Goats](https://github.com/lostmypillow/dancinggoats), a website I made for a local eponymous coffee shop.
 
 ...and combining **React** or **Vue** frontends with **Django or FastAPI (Python)** backends:
 
-- [JRAR, a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend](https://github.com/lostmypillow/jrar)
-- [JCourses, a Django and React combo that scrapes course data drom my university, NTUT, and displays them in a more sensible manner](https://github.com/lostmypillow/jcourses)
-- [JSearch, a Vue frontend that displays data from a FastAPI server, which in turn consumes an OMDb API and a random RapidAPI that returns Google results](https://github.com/lostmypillow/jsearch)
+- [JRAR](https://github.com/lostmypillow/jrar), a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend.
+- [JCourses](https://github.com/lostmypillow/jcourses), a Django API that scrapes course data drom my university, NTUT. A frontend for it is in the works.
+- [JSearch](https://github.com/lostmypillow/jsearch), a FastAPI server that consumes an OMDb API and a random RapidAPI that returns movie or Google resultsto a Nuxt frontend.
 
-Recently I'm working on an **Express + React** project [JQuotes, a work in progress quotes generator with login and "favorites" functionalities](https://github.com/lostmypillow/jquotes) and [JDMS, my attempt to automate my daily assignment at the PR firm I'm interning at](https://github.com/lostmypillow/jDMS)
+Recently I'm working on **Express + React** projects:
+ - [JQuotes](https://github.com/lostmypillow/jquotes), a work in progress quotes generator with login and "favorites" functionalities
+ - [JDMS](https://github.com/lostmypillow/jDMS), my attempt to automate my daily assignment at the PR firm I'm interning at
 
 ...as well as learning **Java** via [HelloJava](https://github.com/lostmypillow/HelloJava) and **Expo (React Native)** via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
 
