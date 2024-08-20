@@ -1,5 +1,3 @@
-# Heeeere's Johnny!
-
 I'm Johnny, aka LostMyPillow.
 
 I'm a self taught developer, I build stuff ranging from simple **HTML** websites:
