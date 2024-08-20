@@ -8,17 +8,17 @@ I'm a self taught developer, I build stuff ranging from simple **HTML** websites
 
 ...to simple **React** frontends:
 
-- [Dancing Goats](https://github.com/lostmypillow/dancinggoats), a website I made for a local eponymous coffee shop.
+- [Dancing Goats (Abandoned)](https://github.com/lostmypillow/dancinggoats), a website I made for a local eponymous coffee shop.
 
 ...and combining **React** or **Vue** frontends with **Django or FastAPI (Python)** backends:
 
 - [JRAR](https://github.com/lostmypillow/jrar), a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend.
-- [JCourses](https://github.com/lostmypillow/jcourses), a Django API that scrapes course data drom my university, NTUT. A frontend for it is in the works.
+- [JCourses(WIP)](https://github.com/lostmypillow/jcourses-fastapi), a FastAPI ([formerly Django](https://github.com/lostmypillow/jcourses)) API that scrapes course data drom my university, NTUT. A frontend for it is a work in progress.
 - [JSearch](https://github.com/lostmypillow/jsearch), a FastAPI server that consumes an OMDb API and a random RapidAPI that returns movie or Google resultsto a Nuxt frontend.
 
 Recently I'm working on **Express + React** projects:
- - [JQuotes](https://github.com/lostmypillow/jquotes), a work in progress quotes generator with login and "favorites" functionalities
- - [JDMS](https://github.com/lostmypillow/jDMS), my attempt to automate my daily assignment at the PR firm I'm interning at
+ - [JQuotes (WIP)](https://github.com/lostmypillow/jquotes), a work in progress quotes generator with login and "favorites" functionalities
+ - [JDMS (WIP)](https://github.com/lostmypillow/jDMS), my attempt to automate my daily assignment at the PR firm I'm interning at
 
 ...as well as learning **Java** via [HelloJava](https://github.com/lostmypillow/HelloJava) and **Expo (React Native)** via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
 
