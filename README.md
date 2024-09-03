@@ -16,16 +16,11 @@ I'm a self taught developer, I build stuff ranging from simple **HTML** websites
 
 Recently I'm working on **Express + React** projects:
  - [JQuotes (WIP)](https://github.com/lostmypillow/jquotes), a work in progress quotes generator with login and "favorites" functionalities
- - [JDMS (WIP)](https://github.com/lostmypillow/jDMS), my attempt to automate my daily assignment at the PR firm I'm interning at
+ - [JDMS (WIP)](https://github.com/lostmypillow/jDMS), my attempt to automate my daily assignment at the PR firm I'm interning at. It's the biggest project of all my projects.
 
 ...as well as learning **Java** via [HelloJava](https://github.com/lostmypillow/HelloJava) and **Expo (React Native)** via [HelloExpo](https://github.com/lostmypillow/HelloExpo)
 
-I self-host all of the above projects (frontend and backend) and future projects on my RPi 3B+ at home, using **Docker containers**. They're behind an **nginx reverse proxy** and a DuckDNS free domain.
-
-For backup, I host my personal website and several frontend only projects with GitHub Pages, and use Render to host the backup backends.
-
-
-[![Here are my top languages, for fun](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+I host my personal website and several frontend only projects with GitHub Pages, and use Render to host the backup backends.
 
 <!--
 **lostmypillow/lostmypillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
