@@ -4,11 +4,7 @@ I'm a self taught developer, I build stuff ranging from simple **HTML** websites
 
 - [My own personal website](https://github.com/lostmypillow/lostmypillow.github.io)
 
-...to simple **React** frontends:
-
-- [Dancing Goats (Abandoned)](https://github.com/lostmypillow/dancinggoats), a website I made for a local eponymous coffee shop.
-
-...and combining **React** or **Vue** frontends with **Django or FastAPI (Python)** backends:
+...to combining **React** or **Vue** frontends with **Django or FastAPI (Python)** backends:
 
 - [JRAR](https://github.com/lostmypillow/jrar), a school project that combines a Raspberry Pi and Arduino with a Django backend and a React frontend.
 - [JCourses(WIP)](https://github.com/lostmypillow/jcourses-fastapi), a FastAPI ([formerly Django](https://github.com/lostmypillow/jcourses)) API that scrapes course data drom my university, NTUT. A frontend for it is a work in progress.
