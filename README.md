@@ -1,6 +1,6 @@
 I'm Johnny, aka LostMyPillow.
 
-Visit my personal website at [chodansbawige.com](https://chodanpillow.com) for more details about my projects, including those not seen in my public GitHub profile!
+Visit my personal website at https://chodanpillow.com for more details about my projects, including those not seen in my public GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostmypillow&hide=html,css&layout=donut&langs_count=4)
 <!--
