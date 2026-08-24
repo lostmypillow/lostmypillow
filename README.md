@@ -4,11 +4,11 @@ Visit my personal website at https://lostmypillow.com
 
 Here are my upcoming INE projects (Learn more about INE [here](https://github.com/lostmypillow/INE)):
 
-1. mp4mp3 [Link to repository]() | [Link to demo website](https://mp4mp3.lostmypillow.com)
-2. ntut [Link to repository]()
+1. mp4mp3 [Link to repository](https://github.com/lostmypillow/mp4mp3) | [Link to demo website](https://mp4mp3.lostmypillow.com)
+2. ntut [Link to repository](https://github.com/lostmypillow/ntut)
 3. movies [Link to repository]()
-4. autodms [Link to repository]()
-5. ai
+4. autodms [Link to repository](https://github.com/lostmypillow/autodms)
+5. ai [Link to repository](https://github.com/lostmypillow/ai)
 6. seats
 7. work
 8. internal
