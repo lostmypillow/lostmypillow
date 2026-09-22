@@ -2,20 +2,8 @@ I'm Johnny, aka LostMyPillow.
 
 Visit my personal website at https://lostmypillow.com
 
-Here are my upcoming INE projects (Learn more about INE [here](https://github.com/lostmypillow/INE)):
+Here are my upcoming projects:
 
 1. mp4mp3 [Link to repository](https://github.com/lostmypillow/mp4mp3) | [Link to demo website](https://mp4mp3.lostmypillow.com)
-2. ntut [Link to repository](https://github.com/lostmypillow/ntut)
-3. movies [Link to repository]()
-4. autodms [Link to repository](https://github.com/lostmypillow/autodms)
-5. ai [Link to repository](https://github.com/lostmypillow/ai)
-6. seats
-7. work
-8. internal
-9. jd2
-10. shop
-11. product-registration
-12. food-dine-in
-13. foodelivery
-14. addicted (IG clone)
-15. swipe (TikTok clone)
+2. school-api, school-admin and school-app 
+3. autodms [Link to repository](https://github.com/lostmypillow/autodms)
